@@ -1,7 +1,3 @@
-Here’s a **sample project description** for an **Election Analysis Project** that you can adapt for academic, research, or training purposes:
-
----
-
 ## **Project Title**
 
 Election Analysis: Data-Driven Insights into Voting Patterns and Outcomes
